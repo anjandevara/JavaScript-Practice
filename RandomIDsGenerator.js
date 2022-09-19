@@ -1,0 +1,8 @@
+const quickbookbId = "QB" + Math.random().toFixed(16).slice(14)
+const salesforceId = "SF" + Math.random().toFixed(16).slice(14)
+const adminId = "ADMIN" + Math.random().toFixed(16).slice(14)
+const ownerId = "OWNER" + Math.random().toFixed(16).slice(14)
+console.log(quickbookbId)
+console.log(salesforceId)
+console.log(adminId)
+console.log(ownerId)
